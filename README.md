@@ -17,7 +17,7 @@ The data is sourced from the company’s database, which contains a table named 
 # Tools Used
 
 - SQL for querying and analysing the data.
-- Google Colab for running the SQL queries and presenting the results.
+- datalab for running the SQL queries and presenting the results.
 
 # Insights
 
